@@ -13,10 +13,6 @@ I have been maintaining a blog since I started studying development. If you're i
 
 <a href="https://25gstory.tistory.com/"><img src="https://img.shields.io/badge/Dev_blog-red?style=flat-square&logo=tistory&logoColor=yellow&link=https://25gstory.tistory.com/"/></a>
 
-## 📈 GitHub Stats (GitHub 통계)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fj2008&show_icons=true&theme=radical&count_private=true)
-
 ## 💻 My Tech Stack (기술 스택)
 
 - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
